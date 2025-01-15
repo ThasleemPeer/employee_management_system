@@ -13,7 +13,7 @@ The **Employee Management System** is a web-based application designed to manage
 
 ## Tech Stack
 
-- **Frontend:** React.js, Tailwind CSS
+- **Frontend:** React.js
 - **Backend:** Django
 - **Database:** MySQL
 - **Deployment:** Vercel
